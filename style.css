@@ -1,0 +1,36 @@
+.logo {
+	 width: 380px;
+     height: 280px; 
+     position: relative;
+     left: 500px;
+}
+
+.h1 {
+	color: ##0C0B0B;
+
+}
+.h1 {
+  font: oblique bold 210% cursive;
+}
+.h2{
+	color: darkblue;
+}
+.b {
+	color: #DC071A;
+	font: oblique bold 150% cursive;
+}
+.h3 {
+	background-color: hotpink;
+	font: monospace 90% cursive;
+
+}
+
+.flecha{
+	width: 70px;
+     height: 90px; 
+}
+
+.h4{
+    background-color: hotpink;
+	font: monospace 90% cursive;
+}
